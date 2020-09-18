@@ -570,10 +570,9 @@
 
 
     <modules>
-        <module>bigquery-to-elasticsearch</module>
         <module>bigquery-to-parquet</module>
+        <module>bigquery-to-avro</module>
         <module>common</module>
-        <module>cdc-parent</module>
         <module>csv-to-elasticsearch</module>
         <module>datastream-to-bigquery</module>
         <module>file-format-conversion</module>
