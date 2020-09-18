@@ -25,7 +25,6 @@ import com.google.cloud.bigquery.storage.v1beta1.TableReferenceProto;
 import java.io.IOException;
 import java.util.Arrays;
 import org.apache.avro.Schema;
-import org.apache.avro.generic.GenericRecord;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.PipelineResult;
 import org.apache.beam.sdk.coders.AvroCoder;
