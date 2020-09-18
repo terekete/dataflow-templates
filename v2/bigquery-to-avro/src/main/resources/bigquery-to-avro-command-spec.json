@@ -1,0 +1,7 @@
+{
+  "mainClass": "com.google.cloud.teleport.v2.templates.BigQueryToAvro",
+  "classPath": "/template/bigquery-to-avro/*:/template/bigquery-to-avro/libs/*:/template/bigquery-to-avro/classes",
+  "defaultParameterValues": {
+    "labels": "{\"goog-dataflow-provided-template-type\":\"flex\", \"goog-dataflow-provided-template-name\":\"bigquery_to_avro\"}"
+  }
+}
